@@ -166,6 +166,5 @@ public class EditorActivity extends AppCompatActivity {
         } else {
             Toast.makeText(this, "Pet saved with id " + newRowID, Toast.LENGTH_SHORT).show();
         }
-
     }
 }
